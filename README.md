@@ -1,3 +1,3 @@
-# R_Markdown_Work.io
+# Life_Expectancy_Using_R
 
-Here examples of my projects with the help or R and R Markdown.
+Project and data courtesy of Datacamp.  Taking a look at trends the United Nation's life expectancy findings throughout the world.
